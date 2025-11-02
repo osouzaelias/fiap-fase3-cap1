@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+*.egg-info/
+.eggs/
+.venv/
+venv/
+ENV/
+env/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs & dumps
+*.log
+
+# Build
+build/
+dist/
+
+# Configs & secrets
+config/config.ini
+*.ini
