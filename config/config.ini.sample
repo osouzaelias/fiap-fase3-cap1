@@ -1,0 +1,4 @@
+[database]
+user = SEU_USUARIO_AQUI
+password = SUA_SENHA_AQUI
+dsn = SEU_DSN_AQUI ; exemplo: localhost:1521/XEPDB1

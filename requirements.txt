@@ -1,0 +1,7 @@
+dash>=2.17
+dash-bootstrap-components>=1.6
+pandas>=2.2
+plotly>=5.23
+oracledb>=2.4
+numpy>=2.0
+configparser>=7.1
